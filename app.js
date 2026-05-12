@@ -91,7 +91,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "MEDARSHANG KOCHANSHO MARING",
     roll: "NDUIBC2447", course: "BCA (4 Years)", section: "Section A",
-    meme: "./images/Koba_meme.webp", reason:  "Trying my Best"},
+    meme: "./images/Koba_meme.jpg", reason:  "Trying my Best"},
     meme: null, reason: null },
   { name: "LOUKHAM STEVEN",
     roll: "NDUIBC2448", course: "BCA (4 Years)", section: "Section A",
